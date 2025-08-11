@@ -35,12 +35,12 @@ Random Apple Placement: Apples are never placed too close to each other or on th
  #
  🕹️ How to Play \
 UI Mode
-1) Edit file.txt:
+1) Edit file.txt: \
 7 \
 3 \
 (First line: board size, second line: number of apples)
 
-2) Commands: 
+2) Commands: \
 up, down, left, right → move one square \
 move X → move forward X squares (if possible)
 
@@ -72,6 +72,19 @@ caterpillar_game \
 🚀 Future Improvements 
 * Test and polish the butterfly transformation animation. 
 * Add sound effects.
+
+#
+🖼️ Screenshots:
+* UI \
+  <img width="219" height="916" alt="image" src="https://github.com/user-attachments/assets/fb9453c4-f648-4ea0-a55b-cd2cace48c04" />
+  <img width="218" height="914" alt="image" src="https://github.com/user-attachments/assets/a77bf966-98ad-44ef-99ed-ba2b6fa11404" />
+
+* GUI \
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/9d8c2004-8d6e-4692-9217-4cf8be8d92d3" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/67424e27-3fb7-46dd-90a8-c15519728150" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/152cbba5-c8cb-4f45-a6a3-b2c88c2ab28f" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/84c3b8eb-3ca7-4c81-9e55-55e0af799936" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/cff93138-1314-45e2-acc9-1f8226cf5cba" />
 
 
 
